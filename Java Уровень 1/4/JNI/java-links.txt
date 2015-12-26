@@ -1,0 +1,17 @@
+http://www.artima.com/insidejvm/ed2/
+
+//JNI
+http://java.sun.com/developer/onlineTraining/Programming/JDCBook/jniexamp.html
+http://www.javaportal.ru/java/articles/jni.html
+
+//swt
+http://www.vogella.de/articles/SWT/article.html
+
+
+//JFace
+http://www.vogella.de/articles/EclipseJFaceTree/article.html
+http://www.vogella.de/articles/EclipseJFaceTable/article.html
+http://www.vogella.de/articles/EclipseDataBinding/article.
+
+http://stoyanov.org/swt/IBM%20SWT%20JFace%20Tutorial.pdf
+

@@ -1,0 +1,4 @@
+; dlltool --base-file C:\Users\student\AppData\Local\Temp\cca03116.base --output-exp Project1.exp --dllname Project1.dll --output-def libProject1.def --no-export-all-symbols --add-stdcall-alias --exclude-symbol=DllMainCRTStartup@12 --def C:\Users\student\AppData\Local\Temp\cca03116.def --output-lib libProject1.a
+EXPORTS
+	Java_myjni_Test_add@24 @ 1
+	Java_myjni_Test_add = Java_myjni_Test_add@24 @ 2
